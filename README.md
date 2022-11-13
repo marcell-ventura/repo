@@ -1,5 +1,6 @@
 # REPO
 Clone this file to your localhost and save it to you "htdocs" folder inside XAMPP file.
+
 #Configuration
 Follow the Instruction below. If problem occurs just pm me.
 Steps:
