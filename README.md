@@ -1,7 +1,6 @@
 # REPO
 Clone this file to your localhost and save it to you "htdocs" folder inside XAMPP file.
-
-#Configuration
+##Configuration
 Follow the Instruction below. If problem occurs just pm me.
 Steps:
 1. Upload/Import sql file named "repo_db" to your localhost. 
