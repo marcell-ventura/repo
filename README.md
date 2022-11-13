@@ -1,6 +1,13 @@
 # REPO
+### Prerequisites
+- PHP ^7.4
+- The following PHP extensions must be enabled on your local machine
+- Apache2 web server
+- XAMPP
+- MySQL / MariaDB Server
+- Git
 Clone this file to your localhost and save it to you "htdocs" folder inside XAMPP file.
-##Configuration
+## 
 Follow the Instruction below. If problem occurs just pm me.
 Steps:
 1. Upload/Import sql file named "repo_db" to your localhost. 
